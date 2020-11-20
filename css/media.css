@@ -1,0 +1,335 @@
+@media (max-width: 1200px){
+    .col-4 {
+        width: var(--col-6);
+    }
+    .txth2{
+        font-size: 26px;
+        margin-bottom: 25px;
+    }
+    .txtp{
+        font-size: 16px;
+    }
+    .girl{
+        width: 326px;
+        height: 400px;
+    }
+    .podpis{
+        width: 130px;
+        height: 130px;
+    }
+    .txtp{
+        width: 400px;
+    }
+    .avtor{
+        margin-top: 30px;
+    }
+    .girl-client{
+        width: 250px;
+        height: 250px;
+    }
+    .header .header__text {
+        padding-left: 100px;
+    }
+    .header .nav{
+        padding-left: 100px;
+    }
+    .section1  .container{
+        margin: 30px 0;
+    }
+    .name{
+        font-size: 25px;
+    }
+    .price {
+        font-size: 26px;
+    }
+}
+@media (max-width: 992px){ 
+    .header-tel{
+        font-size: 18px;
+    }
+    .header__link{
+        padding: 13px 20px;
+
+    }
+    .text-2{
+        font-size: 65px;
+    }
+    .text-3{
+        font-size: 17px;
+    }
+    .girl-client{
+        width: 180px;
+        height: 180px;
+    }
+    .txth2{
+        font-size: 24px;
+    }
+    .avtor{
+        margin-right:40px ;
+    margin-top: 30px;
+    font-size:20px ;
+    }
+    .txtp{
+        font-size: 16px;
+        line-height: 1.5;
+    }
+    .pizza{
+        width: 289px;
+        height: 232px;
+        
+    }
+    .sales{
+        position: absolute;
+        
+    }
+    .girl{
+        width: 306px;
+        height: 380px;
+    }
+    .menu {
+        font-size: 34px;
+    }
+    .card{
+        margin:25px 0;
+    }
+    .ingredients{
+        line-height: 1.5;
+    }
+    .name {
+        font-size: 19px;
+    }
+    .price {
+        font-size: 23px;
+        margin-bottom: 16px;
+    }
+    .buy{
+        padding: 15px 20px;
+    }
+    .sales{
+        height: 45px;
+    width: 45px;
+    font-size: 16px;
+    }
+    .section3 {
+        margin: 50px 0;
+    }
+    .section1 {
+        margin: 40px 0;
+    }
+
+   
+
+}
+@media (max-width: 768px){
+    .girl{
+        width: 256px;
+        height: 330px;
+    }
+    .section1__text {
+        margin-left: 14px;
+    }
+    .txth2 {
+        font-size: 18px;
+    }
+    .txtp{
+        width: 300px;
+        font-size: 14px;
+        line-height: 1.5;
+    }
+    .avtor{
+        margin-right:10px ;
+    font-size:18px ;
+    }
+    .podpis {
+        width: 100px;
+        height: 100px;
+    }
+    .menu {
+        text-align: center;
+        font-size: 30px;
+    }
+    
+    .girl-client {
+        width: 145px;
+        height: 145px;
+    }
+    .header-tel {
+        font-size: 16px;
+        padding: 45px 20px 0 0;
+
+    }
+    .logo{
+        font-size: 17px;
+    }
+    .header__link{
+        padding: 12px 15px;
+        
+    }
+    .text-2{
+        font-size: 55px;
+    }
+    .header .nav{
+        padding-left: 40px ;
+    }
+    .header .header__text{
+        padding-left: 40px;
+    }
+    .header__button {
+        padding: 13px 30px;
+    }
+   
+    .price {
+        font-size: 18px;
+        margin: 16px 0;
+    }
+    .card{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    .pizza {
+        min-height: 320px;
+        width: 500px;
+        
+    }
+    .card{
+        position: relative;
+    }
+    .sales {
+        position: absolute;
+        top: 35px;
+        left:  180px;
+    }
+    .ingredients{
+        line-height: 1.5;
+    }
+    .name{
+        font-size: 20px;
+        margin-top: 15px;
+    }
+    .right{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    .menu{
+        margin: 0 auto;
+        
+        font-size: 32px;
+        
+    }
+}
+@media (max-width: 576px){
+    .section1 .container{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    .section3 .container{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    .header .nav {
+        padding-left: 20px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    .cards{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    .card .center{
+        width: 300px;
+    }
+    .buy {
+        padding: 3px 50px;
+    }
+    .pizza {
+        height: 212px;
+        position: relative;
+    }
+    .sales {
+        position: absolute;
+        top: 35px;
+        left: 40px;
+    }
+    .girl-client{
+        width: 185px;
+        height: 185px;
+    }
+    .clients{
+        width: 290px;
+        text-align: center;
+
+    }
+    .surname{
+        margin: 18px 0;
+    }
+    .comment{
+        margin-bottom: 18px;
+    }
+    .section3{
+        margin: 20px 0;
+    }
+    .card{
+        margin: 15px 0;
+    }
+    .txth2{
+        margin: 20px 0;
+    }
+    .girl {
+        width: 226px;
+        height: 270px;
+    }
+    .text-2 {
+        font-size: 35px;
+    }
+    .text-1 {
+        font-size: 16px;
+    }
+    .text-3 {
+        font-size: 16px;
+        margin-bottom: 20px;
+    }
+    .header .header__text {
+        padding-left: 20px;
+    }
+    .nav .container{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    .header__list{
+        flex-direction: column;
+        display: flex;
+        align-items: center;
+    }
+    .header__button{
+        margin: 25px 0;
+    }
+    .header__link{
+        padding: 12px 15px;
+        margin: 15px 0;
+    }
+    .header__button{
+        text-align: center;
+    }
+    .header__text .container{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    .menu{
+        width: 290px;
+        font-size: 32px;
+        text-align: center;
+    }
+    .text-end{
+        margin-top: 5px ;
+    }
+   
+}
+
